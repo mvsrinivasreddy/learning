@@ -8,6 +8,7 @@ MAIN TOPICS
 4. High Level Design
 5. C++, Python
 6. Using AI tools to solve problems
+7. Embedded AI
 
 DSA:
 ---
@@ -53,3 +54,8 @@ AI Tools:
 1. Experiment using open source LLMs to make a train and build a custom model
 2. understand how configure and use agents for personal use
 3. Automate tasks using AI (co-pilot, LLama etc.,)
+
+Embedded AI:
+------------
+1. Use AI model in small footprint systems like espressif/raspberry Pi/aurdino board etc.,
+2. Explore building simple models in embedded and adjust weights and deploy small footprint program. 
