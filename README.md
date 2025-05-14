@@ -14,8 +14,25 @@ DSA:
 ---
 1. solve leetcode problems on -
    Arrays
-   linked lists
-   Graphs
+   **linked lists**
+    1.  Reverse a Linked List
+    2.  Detect a Cycle in a Linked List
+    3.  Merge Two Sorted Linked List
+    4. Find the Middle of a Linked List
+    5. Remove N-th Node From End of List
+    6.  Intersection of Two Linked Lists
+    7. Check if a Linked List is a Palindrome
+    8.  Rearrange a Linked List
+         Given a linked list, rearrange it so that all odd-indexed nodes come before all even-indexed nodes
+    9.  Add Two Numbers Represented by Linked Lists
+         Each node in a linked list represents a digit, and the digits are stored in reverse order. Write a function to sum two linked lists.
+  10. Clone a Linked List with Random Pointers
+         Given a linked list where each node has an additional random pointer, clone the list.
+  11. Flatten a Multilevel Doubly Linked List
+         Given a doubly linked list where in addition to the next and previous pointers, each node may have a child pointer which may point to a separate doubly linked list,             flatten the list.
+  12. Remove Duplicates from Sorted Linked List
+ ****  Graphs****
+      1. 
    hash tables
    trees
    Sorting algorithms
