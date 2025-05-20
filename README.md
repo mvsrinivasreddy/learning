@@ -13,13 +13,25 @@ MAIN TOPICS
 DSA:
 ---
 
-1. Linked List
+**1. Linked List**
      1. Reverse a Linked List
-     2. Detect a Cycle in a Linked List 
+     2. Detect a Cycle in a Linked List
+     3. Merge Two Sorted Linked Lists
+     4. Find the Middle of a Linked List
+     5. Remove N-th Node From End of List
+     6. Intersection of Two Linked Lists--- Write a program to determine the point of intersection of two linked lists.
+     7. Check if a Linked List is a Palindrome
+     8. Rearrange a Linked List---Given a linked list, rearrange it so that all odd-indexed nodes come before all even-indexed nodes
+     9. Add Two Numbers Represented by Linked Lists
+     10. Clone a Linked List with Random Pointers---Given a doubly linked list where in addition to the next and previous pointers, each node may have a child pointer which may point to a separate doubly linked list, flatten the list.
+     11. Remove Duplicates from Sorted Linked List
+     12. Remove Duplicates from Unsorted Linked List
+     13. Split a Linked List into Two Halves
+     14. Find the Starting Node of the Cycle-----If a linked list has a cycle, return the node where the cycle begins.
+             
 1. solve leetcode problems on -
    Arrays
-   linked lists
-      Reverse a Linked List
+  
    Graphs
    hash tables
    trees
