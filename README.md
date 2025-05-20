@@ -28,9 +28,12 @@ DSA:
      11. Remove Duplicates from Sorted Linked List
      12. Remove Duplicates from Unsorted Linked List
      13. Split a Linked List into Two Halves
-     14. Find the Starting Node of the Cycle-----If a linked list has a cycle, return the node where the cycle begins.
+     14. Find the Starting Node of the Cycle-----If a linked list has a cycle, return the node where the cycle begins.  
+
      
-    2. Arrays 
+     
+  **  2. Arrays **  
+  
          1. Two Sum---
                     Problem: Given an array of integers and a target value, return the indices of the two numbers that add up to the target.
                     Hint: Use a hash map to store the difference between the target and each element as you iterate through the array.
