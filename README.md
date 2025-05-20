@@ -13,7 +13,8 @@ MAIN TOPICS
 DSA:
 ---
 
-**1. Linked List**
+**1. Linked List**  
+
      1. Reverse a Linked List
      2. Detect a Cycle in a Linked List
      3. Merge Two Sorted Linked Lists
