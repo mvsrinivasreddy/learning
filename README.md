@@ -15,6 +15,7 @@ DSA:
 1. solve leetcode problems on -
    Arrays
    linked lists
+      Reverse a Linked List
    Graphs
    hash tables
    trees
