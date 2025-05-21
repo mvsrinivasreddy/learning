@@ -37,6 +37,19 @@ DSA:
          1. Two Sum---
                     Problem: Given an array of integers and a target value, return the indices of the two numbers that add up to the target.
                     Hint: Use a hash map to store the difference between the target and each element as you iterate through the array.
+         2. Best Time to Buy and Sell Stock
+                    Problem: Given an array of stock prices, determine the maximum profit you can achieve from a single buy and sell.
+                    Hint: Keep track of the minimum price encountered so far and calculate the profit at each step
+          3.3Sum
+               Problem: Find all unique triplets in an array that sum to zero.
+               Hint: Sort the array first, and then use a two-pointer technique to find pairs that complete each triplet with a fixed element.
+          4. Container With Most Water
+
+Problem: Given an array representing the height of walls, find two walls that can hold the most water.
+Hint: Use a two-pointer approach, starting from both ends of the array and moving towards the center.
+
+Problem: Find all unique triplets in an array that sum to zero.
+Hint: Sort the array first, and then use a two-pointer technique to find pairs that complete each triplet with a fixed element.
 1. solve leetcode problems on -
    Arrays
   
